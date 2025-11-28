@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+prophet
+jupyter
+requests
+beautifulsoup4
+sportsdataverse
+pyarrow
+streamlit
+plotly
+prophet
+pytest
